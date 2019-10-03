@@ -1,0 +1,11 @@
+C:\Temp\Viajando\bin\Debug\netcoreapp2.1\Viajando.deps.json
+C:\Temp\Viajando\bin\Debug\netcoreapp2.1\Viajando.runtimeconfig.json
+C:\Temp\Viajando\bin\Debug\netcoreapp2.1\Viajando.runtimeconfig.dev.json
+C:\Temp\Viajando\bin\Debug\netcoreapp2.1\Viajando.dll
+C:\Temp\Viajando\bin\Debug\netcoreapp2.1\Viajando.pdb
+C:\Temp\Viajando\obj\Debug\netcoreapp2.1\Viajando.csprojAssemblyReference.cache
+C:\Temp\Viajando\obj\Debug\netcoreapp2.1\Viajando.csproj.CoreCompileInputs.cache
+C:\Temp\Viajando\obj\Debug\netcoreapp2.1\Viajando.AssemblyInfoInputs.cache
+C:\Temp\Viajando\obj\Debug\netcoreapp2.1\Viajando.AssemblyInfo.cs
+C:\Temp\Viajando\obj\Debug\netcoreapp2.1\Viajando.dll
+C:\Temp\Viajando\obj\Debug\netcoreapp2.1\Viajando.pdb
